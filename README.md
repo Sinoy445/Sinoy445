@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Sinoy 👋
 
-<!--
-**Sinoy445/Sinoy445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Full-Stack Developer with a focus on Python, building clean and functional applications.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies
+- **Primary:** Python
+- **Also experienced with:** Java, JavaScript
+- **Tools:** Git, REST APIs, basic Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 Currently Focused On
+- Building scalable backend services with Python
+- Learning modern frontend practices
+- Creating practical, problem-solving projects
+
+## 📫 Reach Me
+**Discord:** rekiksinoy
+(Feel free to message for project chats or collaborations)
+
+---
+*Thanks for stopping by!*
